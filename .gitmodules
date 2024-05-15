@@ -1,0 +1,6 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/cyyself/u-boot.git
+[submodule "opensbi"]
+	path = opensbi
+	url = https://github.com/cyyself/opensbi.git
